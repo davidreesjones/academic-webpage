@@ -11,7 +11,7 @@ superuser: true
 
 # Role/position
 role: Lecturer in Applied Mathematics
-url: "https://www.st-andrews.ac.uk/maths/people/?mode=profile&group=staff&user_id=dwrj1"
+
 # Organizations/Affiliations
 organizations:
 - name: University of St Andrews
