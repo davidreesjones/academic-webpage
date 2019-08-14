@@ -11,7 +11,7 @@ superuser: true
 
 # Role/position
 role: Lecturer in Applied Mathematics
-
+url: "https://www.st-andrews.ac.uk/maths/people/?mode=profile&group=staff&user_id=dwrj1"
 # Organizations/Affiliations
 organizations:
 - name: University of St Andrews
@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Geophysical fluid dynamics
+- Sea-ice formation, ice-ocean interaction
+- Magma dynamics
 
 education:
   courses:
@@ -59,6 +59,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I use mathematical analysis and computational simulations to understand a wide range of geophysical and environmental fluid flows. I focus on situations in which melting and solidification are significant, such as the generation and transport of molten magma from deep within the Earth, and the formation of sea ice in the Polar Oceans.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Previously, I was a postdoctoral researcher in subduction-zone geodynamics at Bullard Laboratories, Department of Earth Sciences, University of Cambridge, working with Dr John Rudge and at the FoaLab Laboratory for Geodynamics at the University of Oxford with Prof. Richard Katz. Subduction zones are a crucial part of the Earth’s tectonic system, which controls the cycling of volatile chemicals such as water and carbon on long geological timescales. We are developing physical models of the coupled fluid flow and thermal and chemical transport, and implementing these in open-source simulation code based on PETSc and available for community use. I am also working on physical models of reactive flow instabilities, which may explain the formation of tabular dunites in ophiolites.
+
+I am also interested in the interaction between sea ice and fluid dynamics. Sea ice is a sensitive part of the climate system and is responding dramatically to Arctic warming. I worked as a postdoctoral researcher in the Department of Physics at the University of Oxford in the group of Prof. Andrew Wells where I worked on frazil-ice formation. I studied Mathematics, leading to a PhD on convective flow within sea ice in the Department of Applied Mathematics and Theoretical Physics at the University of Cambridge, supervised by Prof. Grae Worster. 
