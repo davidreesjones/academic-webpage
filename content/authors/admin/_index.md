@@ -11,6 +11,7 @@ superuser: true
 
 # Role/position
 role: Lecturer in Applied Mathematics
+url: "https://www.st-andrews.ac.uk/"
 
 # Organizations/Affiliations
 organizations:
